@@ -4196,8 +4196,8 @@ textarea.form-control-lg {
   --bs-card-cap-padding-y: 0.5rem;
   --bs-card-cap-padding-x: 1rem;
   --bs-card-cap-bg: rgba(0, 0, 0, 0.03);
-  --bs-card-cap-color: ;
-  --bs-card-height: ;
+  --bs-card-cap-color: green;
+  --bs-card-height: 250px;
   --bs-card-color: rgba(0, 0, 0, 0.125);
   --bs-card-bg: #fff;
   --bs-card-img-overlay-padding: 1rem;
