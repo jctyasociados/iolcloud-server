@@ -1027,7 +1027,7 @@ section {
 .faq .faq-list .question {
   display: block;
   position: relative;
-  font-family: #e43c5c;
+  font-family: "Open Sans", sans-serif;
   font-size: 18px;
   line-height: 24px;
   font-weight: 400;
